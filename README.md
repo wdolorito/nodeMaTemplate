@@ -11,7 +11,7 @@ Built on [nodejs](https://nodejs.org/en/) and [expressjs](https://expressjs.com/
 | Software              | Version | Documentation                                                                                       |
 | :-------------------: | :-----: | :-------------------------------------------------------------------------------------------------: |
 | jQuery                | 3.2.1   | [https://api.jquery.com/](https://api.jquery.com/)                                                  |
-| Materializecss        | 0.100.2 | [https://get.foundation/sites/docs/](https://get.foundation/sites/docs/)                            |
+| Materializecss        | 0.100.2 | [https://archives.materializecss.com/0.100.2/](https://archives.materializecss.com/0.100.2/)        |
 | Google Material Icons | -       | [https://google.github.io/material-design-icons/](https://google.github.io/material-design-icons/)  |
 
 ### Using this template
