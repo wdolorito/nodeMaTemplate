@@ -23,3 +23,7 @@ router.get('/somelocation', function(req, res) {
   res.sendFile(views + '/anotherfile.html')
 })
 ```
+
+### NextJS
+
+Look in `nextjs` for a starter template for, you guessed it, [nextjs](https://nextjs.org/).
