@@ -57,7 +57,7 @@ export default function Home() {
           <code className='grey lighten-2'>components</code>
         </div>
         <div className='col s8'>
-          <p>Add functional react components that only <code>return()</code> generic fragments such as buttons, blocks of ul + li's, etc. that may or may not take props.</p>
+          <p>Add functional react components that only <code>return()</code> generic fragments such as buttons, blocks of ul + li&apos;s, etc. that may or may not take props.</p>
         </div>
       </div>
 
