@@ -2,7 +2,7 @@
 
 ### This is a simple template for getting up and running with [Materializecss](http://archives.materializecss.com/0.100.2/)</a>
 
-Built on [nodejs](https://nodejs.org/en/) and [expressjs](https://expressjs.com/) v4.17.1
+Built on [nodejs](https://nodejs.org/en/) and [expressjs](https://expressjs.com/) v4.18.2
 
 404 error asset from [https://unsplash.com/](https://unsplash.com) by [Rémi Jacquaint
 ](https://unsplash.com/@jack_1?utm_medium=referral&utm_campaign=photographer-credit&utm_content=creditBadge)
